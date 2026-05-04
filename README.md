@@ -1,16 +1,30 @@
-## Hi there 👋
+#  Bonjour, je suis Tsanta
 
-<!--
-**tantsa148/tantsa148** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Étudiant en Informatique  
+💻 Développeur Web (PHP | Java | JavaScript)  
+📍 Antananarivo  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 À propos de moi
+Passionné par le développement web, je réalise des applications avec Spring Boot, PHP et JavaScript.
+
+---
+
+## 💻 Projets
+- 📌 Plateforme Messagerie Sms et Whatsapp
+- 📌 Gestion Bolangerie 
+- 📌 API REST Java
+
+---
+
+## 🛠️ Compétences
+- Frontend : HTML, CSS, JavaScript
+- Backend : PHP, Java , C#
+- Outils : Git, Postman, MySQL
+
+---
+
+## 📫 Me contacter
+- Email : tsantarakotoarimanga14@gmail.com
+- GitHub : https://github.com/tantsa148
