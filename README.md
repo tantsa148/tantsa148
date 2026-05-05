@@ -6,19 +6,19 @@
 
 ---
 
-## 🚀 À propos de moi
+## À propos de moi
 Passionné par le développement web, je réalise des applications avec Spring Boot, PHP et JavaScript.
 
 ---
 
-## 💻 Projets
-- 📌 Plateforme Messagerie Sms et Whatsapp
-- 📌 Gestion Bolangerie 
-- 📌 API REST Java
+##  Projets
+-  Plateforme Messagerie Sms et Whatsapp
+-  Gestion Bolangerie 
+-  API REST Java
 
 ---
 
-## 🛠️ Compétences
+##  Compétences
 - Frontend : HTML, CSS, JavaScript
 - Backend : PHP, Java , C#
 - Outils : Git, Postman, MySQL
