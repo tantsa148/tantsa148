@@ -1,8 +1,8 @@
 #  Bonjour, je suis Tsanta
 
-🎓 Étudiant en Informatique  
-💻 Développeur Web (PHP | Java | JavaScript)  
-📍 Antananarivo  
+ Étudiant en Informatique  
+ Développeur Web (PHP | Java | JavaScript)  
+ Antananarivo  
 
 ---
 
@@ -25,6 +25,6 @@ Passionné par le développement web, je réalise des applications avec Spring B
 
 ---
 
-## 📫 Me contacter
+## Me contacter
 - Email : tsantarakotoarimanga14@gmail.com
 - GitHub : https://github.com/tantsa148
