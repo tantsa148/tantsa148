@@ -1,10 +1,16 @@
 <div align="center">
   <img src="./banner.svg" width="100%">
 </div>
-<h1>
-  <img src="images/user-id.svg" height="50" align="top">
-  À propos de moi
-</h1>
+<table>
+<tr>
+<td>
+<img src="images/user-id.svg" height="30">
+</td>
+<td>
+<h1>À propos de moi</h1>
+</td>
+</tr>
+</table>
 Passionné par le développement web, je réalise des applications avec Spring Boot, PHP et JavaScript.
 
 ---
