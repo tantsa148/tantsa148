@@ -6,29 +6,34 @@
   À propos de moi
 </h1>
 
-<table style="border: none;">
-  <tr style="border: none;">
-    <td style="border: none;" width="30%" align="center">
+<div align="left">
 
-<img src="images/ton-image.png" width="220">
+<img src="images/ton-image.png" width="250" align="left">
 
-</td>
+<p>
+<b>Développeur web en formation</b>, avec un intérêt particulier pour le
+<b>backend et le développement full-stack</b>.
+</p>
 
-<td width="70%" valign="middle">
+<p>
+Expérience avec <b>Java, Spring Boot, JPA/Hibernate et PostgreSQL</b>.
+</p>
 
-- Développeur web en formation, avec un intérêt particulier pour le **backend et le développement full-stack**.
+<p>
+Compétences en <b>Vue.js, JavaScript/TypeScript, HTML, CSS et Bootstrap</b>.
+</p>
 
-- Expérience avec **Java, Spring Boot, JPA/Hibernate et PostgreSQL**.
+<p>
+Intérêt pour la <b>conception et la gestion des bases de données</b>,
+la <b>sécurité des applications et l'authentification</b>.
+</p>
 
-- Compétences en **Vue.js, JavaScript/TypeScript, HTML, CSS et Bootstrap**.
+<p>
+Mon objectif est de continuer à progresser afin d'être
+<b>capable de concevoir des applications complètes et concrètes</b>.
+</p>
 
-- Intérêt pour la **conception et la gestion des bases de données**, la **sécurité des applications et l'authentification**.
-
-- Mon objectif est de continuer à progresser afin d'être **capable de concevoir des applications complètes et concrètes**.
-
-</td>
-</tr>
-</table>
+</div>
 
 ##  Projets
 -  Plateforme Messagerie Sms et Whatsapp
