@@ -8,6 +8,8 @@
 
 <div align="left">
 
+<div align="left" style="background:#000000; padding:20px;">
+
 <img src="images/me.png" width="300" align="left">
 
 <p>
@@ -33,6 +35,9 @@ la <b>sécurité des applications et l'authentification</b>.
 <b>capable de concevoir des applications complètes et concrètes</b>.
 </p>
 
+<br clear="left">
+
+</div>
 </div>
 
 
