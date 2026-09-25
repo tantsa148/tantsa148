@@ -11,25 +11,25 @@
 <img src="images/me.png" width="300" align="left">
 
 <p>
-<b>Développeur web en formation</b>, avec un intérêt particulier pour le
+<b>-Développeur web en formation</b>, avec un intérêt particulier pour le
 <b>backend et le développement full-stack</b>.
 </p>
 
 <p>
-Expérience avec <b>Java, Spring Boot, JPA/Hibernate et PostgreSQL</b>.
+-Expérience avec <b>Java, Spring Boot, JPA/Hibernate et PostgreSQL</b>.
 </p>
 
 <p>
-Compétences en <b>Vue.js, JavaScript/TypeScript, HTML, CSS et Bootstrap</b>.
+-Compétences en <b>Vue.js, JavaScript/TypeScript, HTML, CSS et Bootstrap</b>.
 </p>
 
 <p>
-Intérêt pour la <b>conception et la gestion des bases de données</b>,
+-Intérêt pour la <b>conception et la gestion des bases de données</b>,
 la <b>sécurité des applications et l'authentification</b>.
 </p>
 
 <p>
-Mon objectif est de continuer à progresser afin d'être
+-Mon objectif est de continuer à progresser afin d'être
 <b>capable de concevoir des applications complètes et concrètes</b>.
 </p>
 
