@@ -6,9 +6,9 @@
   À propos de moi
 </h1>
 
-<table border="0">
-<tr>
-<td width="30%" align="center" valign="middle">
+<table style="border: none;">
+  <tr style="border: none;">
+    <td style="border: none;" width="30%" align="center">
 
 <img src="images/ton-image.png" width="220">
 
