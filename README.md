@@ -4,7 +4,7 @@
 
 <h1 style="font-size: 45px;">
     <img src="images/user-id.svg"
-         style="height: 35px; width: auto; vertical-align: middle; position: relative; top: -3px;">
+         style="height: 35px; width: auto; vertical-align: middle; position: relative; top: -6px;">
     À propos de moi
 </h1>
 Passionné par le développement web, je réalise des applications avec Spring Boot, PHP et JavaScript.
