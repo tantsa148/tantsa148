@@ -1,0 +1,67 @@
+$base64 = [Convert]::ToBase64String([IO.File]::ReadAllBytes("images/me.png"))
+
+@"
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1000"
+     height="430"
+     viewBox="0 0 1000 430">
+
+  <!-- Fond noir -->
+  <rect width="1000" height="430" rx="15" fill="#000000"/>
+
+  <!-- Photo intégrée directement -->
+  <image
+    href="data:image/png;base64,$base64"
+    x="30"
+    y="30"
+    width="300"
+    height="350"
+    preserveAspectRatio="xMidYMid slice"/>
+
+  <!-- Texte -->
+  <g fill="white"
+     font-family="Arial, sans-serif"
+     font-size="18">
+
+    <text x="360" y="65">
+      <tspan font-weight="bold">Développeur web en formation</tspan>
+      <tspan> avec un intérêt particulier pour le</tspan>
+    </text>
+
+    <text x="360" y="92">
+      <tspan font-weight="bold">backend et le développement full-stack.</tspan>
+    </text>
+
+    <text x="360" y="145">
+      - Expérience avec
+      <tspan font-weight="bold"> Java, Spring Boot, JPA/Hibernate et PostgreSQL.</tspan>
+    </text>
+
+    <text x="360" y="195">
+      - Compétences en
+      <tspan font-weight="bold"> Vue.js, JavaScript/TypeScript, HTML, CSS et Bootstrap.</tspan>
+    </text>
+
+    <text x="360" y="245">
+      - Intérêt pour la
+      <tspan font-weight="bold"> conception et la gestion des bases de données.</tspan>
+    </text>
+
+    <text x="360" y="272">
+      - Sécurité des applications et
+      <tspan font-weight="bold"> authentification.</tspan>
+    </text>
+
+    <text x="360" y="325">
+      - Mon objectif est de continuer à progresser afin d'être
+    </text>
+
+    <text x="360" y="352">
+      <tspan font-weight="bold">
+        capable de concevoir des applications complètes et concrètes.
+      </tspan>
+    </text>
+
+  </g>
+</svg>
+"@ | Set-Content -Encoding UTF8 about.svg
