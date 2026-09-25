@@ -6,24 +6,29 @@
   À propos de moi
 </h1>
 
-<table>
+<table border="0">
 <tr>
 <td width="30%" align="center" valign="middle">
-<img src="images/me.png" width="220">
+
+<img src="images/ton-image.png" width="220">
+
 </td>
 
 <td width="70%" valign="middle">
 
 - Développeur web en formation, avec un intérêt particulier pour le **backend et le développement full-stack**.
+
 - Expérience avec **Java, Spring Boot, JPA/Hibernate et PostgreSQL**.
+
 - Compétences en **Vue.js, JavaScript/TypeScript, HTML, CSS et Bootstrap**.
+
 - Intérêt pour la **conception et la gestion des bases de données**, la **sécurité des applications et l'authentification**.
+
 - Mon objectif est de continuer à progresser afin d'être **capable de concevoir des applications complètes et concrètes**.
 
 </td>
 </tr>
 </table>
-
 
 ##  Projets
 -  Plateforme Messagerie Sms et Whatsapp
