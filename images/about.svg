@@ -7,7 +7,7 @@
   <rect width="1000" height="430" rx="15" fill="#000000"/>
 
   <!-- Photo -->
-  <image href="me.png"
+  <image href="./me.png"
          x="30"
          y="30"
          width="300"

@@ -6,6 +6,8 @@
   À propos de moi
 </h1>
 <img src="images/about.svg" width="100%">
+
+
 ##  Projets
 -  Plateforme Messagerie Sms et Whatsapp
 -  Gestion Bolangerie 
