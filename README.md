@@ -8,7 +8,7 @@
 
 <div align="left">
 
-<img src="images/me.png" width="250" align="left">
+<img src="images/me.png" width="300" align="left">
 
 <p>
 <b>Développeur web en formation</b>, avec un intérêt particulier pour le
