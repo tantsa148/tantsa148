@@ -1,11 +1,5 @@
-<div align="center" style="position: relative;">
-    <img src="images/art.jpg" alt="Ma photo" height="300" width="1100">
-    <!-- Texte du haut -->
-    <div style="position: absolute; top: 20%; left: 50%;
-                transform: translate(-50%, -50%);
-                color: black;">
-        <h1>&lt;p&gt; Welcome to Tsanta's Github &lt;/p&gt;</h1>
-    </div>
+<div align="center">
+  <img src="./banner.svg" width="100%">
 </div>
 
 #  Bonjour, je suis Tsanta
