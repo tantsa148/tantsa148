@@ -8,7 +8,7 @@
 
 <div align="left">
 
-<img src="images/ton-image.png" width="250" align="left">
+<img src="images/me.png" width="250" align="left">
 
 <p>
 <b>Développeur web en formation</b>, avec un intérêt particulier pour le
@@ -34,6 +34,8 @@ Mon objectif est de continuer à progresser afin d'être
 </p>
 
 </div>
+
+
 
 ##  Projets
 -  Plateforme Messagerie Sms et Whatsapp
