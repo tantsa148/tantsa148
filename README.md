@@ -5,43 +5,7 @@
   <img src="images/user-id.svg" height="35" align="Top">
   À propos de moi
 </h1>
-
-<div align="left">
-
-<div align="left" style="background:#000000; padding:20px;">
-
-<img src="images/me.png" width="300" align="left">
-
-<p>
-<b>-Développeur web en formation</b>, avec un intérêt particulier pour le
-<b>backend et le développement full-stack</b>.
-</p>
-
-<p>
--Expérience avec <b>Java, Spring Boot, JPA/Hibernate et PostgreSQL</b>.
-</p>
-
-<p>
--Compétences en <b>Vue.js, JavaScript/TypeScript, HTML, CSS et Bootstrap</b>.
-</p>
-
-<p>
--Intérêt pour la <b>conception et la gestion des bases de données</b>,
-la <b>sécurité des applications et l'authentification</b>.
-</p>
-
-<p>
--Mon objectif est de continuer à progresser afin d'être
-<b>capable de concevoir des applications complètes et concrètes</b>.
-</p>
-
-<br clear="left">
-
-</div>
-</div>
-
-
-
+<img src="images/about.svg" width="100%">
 ##  Projets
 -  Plateforme Messagerie Sms et Whatsapp
 -  Gestion Bolangerie 
