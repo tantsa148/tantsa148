@@ -5,7 +5,6 @@
   <img src="images/user-id.svg" height="35" align="Top">
   À propos de moi
 </h1>
-<img src="images/about.svg" width="100%">
 <h1>
   <img src="images/tech.svg" height="35" align="Top">
   Tech stack
